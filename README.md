@@ -2,7 +2,7 @@
 # I'm Treasure Simplicity
 <br>
 
-### I'm a frotend engineer
+### I'm a frontend engineer
 
 - 🔭 I’m currently working on React / Next.js Projects...
 - 🌱 I’m currently learning best pratices and design patterns for mordern web frameworks

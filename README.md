@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on React / Next.js Projects...
 - 🌱 I’m currently learning best pratices and design patterns for mordern web frameworks
 - 👯 I’m looking to collaborate on smart ideas and work with tech startups
-- ⚡ Fun fact: I love a lot, and my fav is sooo favvvy
+- 
 
 <br>
 

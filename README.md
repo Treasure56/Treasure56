@@ -4,8 +4,8 @@
 
 ### I'm a frontend engineer
 
-- 🔭 I’m currently working on React / Next.js Projects...
-- 🌱 I’m currently learning best pratices and design patterns for mordern web frameworks
+- 🔭 I’m currently working on React native  Projects...
+- 🌱 I’m currently learning best pratices and design patterns for mordern  frameworks
 - 👯 I’m looking to collaborate on smart ideas and work with tech startups
 - 
 

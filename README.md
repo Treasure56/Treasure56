@@ -1,7 +1,7 @@
 ### Hi there 👋  
 # I'm Treasure Robinson
 
-### 🚀 Frontend Web & Mobile Developer  
+### 🚀 Frontend Web & Mobile Engineer  
 
 I’m a frontend engineer passionate about crafting modern, user-friendly digital experiences using:
 

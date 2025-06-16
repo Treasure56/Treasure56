@@ -49,10 +49,4 @@ I’m a frontend engineer passionate about crafting modern, user-friendly digita
   </a>
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=simplicitytreasure&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
